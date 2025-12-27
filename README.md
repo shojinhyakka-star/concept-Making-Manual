@@ -1,4 +1,4 @@
-# concept-Making-Manual[book.html](https://github.com/user-attachments/files/24352486/book.html)
+
 <!DOCTYPE html>
 <html lang="ja" data-theme="light">
 <head>
